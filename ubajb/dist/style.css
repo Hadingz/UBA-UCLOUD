@@ -1,0 +1,26 @@
+h1{color: rgb(255, 80, 80);font-style: inherit;position:sticky;
+container: grid;display: flex; justify-content: center;
+}
+h2{
+    color: rgb(61, 22, 22);font-style: inherit;position:sticky;
+container: grid;display: flex; justify-content: center;
+}
+div{
+    background-color: bisque;
+}
+.navbar{
+    background-color: crimson;padding: 1em; text-align: right; font-size: 20px;
+}
+.navbar ul{
+    list-style: none; margin: 0%; padding: 0%;
+}
+.navbar li{
+    display: inline-block; margin-right: 20px; text-decoration: none;
+}
+a{ color: black; font-family: fantasy;}
+label{
+    color: crimson; font-family: fantasy; justify-content: center; margin-left: 400px;
+}
+a .abi{
+    color: black;
+}
